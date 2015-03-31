@@ -7,7 +7,7 @@ Material:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: Sinusoidal
-  m_Shader: {fileID: 4800000, guid: 6dedef75fd0484cdf8557f522ceaa8bf, type: 3}
+  m_Shader: {fileID: 4800000, guid: e120c45aaf99043daa2cfa29dc5da0e3, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 5
   m_CustomRenderQueue: -1
